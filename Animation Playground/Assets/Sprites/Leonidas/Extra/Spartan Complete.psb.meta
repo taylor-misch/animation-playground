@@ -1,0 +1,1332 @@
+fileFormatVersion: 2
+guid: da98b9b5499c449818cd163196cac2dd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Shading
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2991
+      y: 1769
+      width: 60
+      height: 58
+    spriteID: fae7fcca8872842ee8621c29000e6b24
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2303, y: 1132}
+  - name: Hand L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1959
+      y: 2717
+      width: 80
+      height: 81
+    spriteID: d6c3b1cb9d45d42b9a869ba254e17901
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1281, y: 2075}
+  - name: Shape 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1834
+      y: 2574
+      width: 119
+      height: 135
+    spriteID: c9b68f4888a5c499a888c086c3eeb736
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1180, y: 1957}
+  - name: Spear Point
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 1134
+      height: 1188
+    spriteID: d526ba81566534e2dab2fdf37bef76b1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1703, y: -178}
+  - name: Spear
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3074
+      y: 4
+      width: 1013
+      height: 1091
+    spriteID: 6652a1a8c44e9420487f2c93653dd584
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2793, y: -214}
+  - name: Belt
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3679
+      y: 1831
+      width: 236
+      height: 81
+    spriteID: afd60a20c5e4148a695fd830e5303788
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2866, y: 1108}
+  - name: Diper
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3679
+      y: 1671
+      width: 228
+      height: 152
+    spriteID: 82bcf86455d524f09993f7304111e499
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2865, y: 1049}
+  - name: Shoes
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1834
+      y: 2471
+      width: 195
+      height: 95
+    spriteID: 4ab2b83fa9c6b4c1c80d3912b3770778
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1112, y: 2291}
+  - name: Leg Definition
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3679
+      y: 1103
+      width: 260
+      height: 560
+    spriteID: 696debf380c1c433c90cc2d60ea2408f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3009, y: 884}
+  - name: Leg L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2290
+      y: 1932
+      width: 178
+      height: 565
+    spriteID: 73110e8dd6f55414d8bdc85386876fc5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1550, y: 1738}
+  - name: Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1070
+      y: 2402
+      width: 182
+      height: 429
+    spriteID: 0d68b8819467542c68c7c4c0ef88345c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 246, y: 1258}
+  - name: Cape Clip
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2208
+      y: 2540
+      width: 69
+      height: 69
+    spriteID: fa2917180a4cd4d84bac9761b29f4ddf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1389, y: 1436}
+  - name: Cape Strap
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1961
+      y: 2574
+      width: 98
+      height: 117
+    spriteID: 4992d7d7fc2884e89ae2ed3734c2de76
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1203, y: 1574}
+  - name: Cape
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2510
+      y: 1769
+      width: 473
+      height: 107
+    spriteID: 7d071223d40134036adf088de005c510
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1812, y: 673}
+  - name: Tooth Knot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2161
+      y: 2741
+      width: 9
+      height: 6
+    spriteID: 7dcf624c771124dff99661c046aadc64
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1229, y: 1661}
+  - name: Tooth
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2161
+      y: 2711
+      width: 19
+      height: 22
+    spriteID: f1e562096f1f347a0b5f1ae4cef13ff9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1229, y: 1643}
+  - name: Necklace
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1959
+      y: 2806
+      width: 92
+      height: 45
+    spriteID: bc20d360de221496387fb145c25a2669
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1073, y: 1728}
+  - name: Ab Definition
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3947
+      y: 1577
+      width: 29
+      height: 263
+    spriteID: aa00bf03f0f524573851606a592764da
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3024, y: 895}
+  - name: Ab Definition_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2510
+      y: 1200
+      width: 546
+      height: 561
+    spriteID: ffad1acc3e63743ef814d45609f3e890
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1840, y: 520}
+  - name: Nipples
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1070
+      y: 2839
+      width: 195
+      height: 17
+    spriteID: 1afa50c6edb1b469f827ba85ea5a52f3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 216, y: 1855}
+  - name: Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1354
+      y: 1932
+      width: 472
+      height: 517
+    spriteID: ddc0a96ea24f64e7ab8e06ce7b5055f0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 656, y: 1256}
+  - name: Arm Def
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2991
+      y: 1835
+      width: 51
+      height: 38
+    spriteID: 27137debb2ebc4577ba525e3a96af86f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2285, y: 959}
+  - name: Arm Definition
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2072
+      y: 1932
+      width: 210
+      height: 526
+    spriteID: 395e52180d30a4f72bff33536750b898
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1479, y: 1283}
+  - name: Arm L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3947
+      y: 1103
+      width: 131
+      height: 466
+    spriteID: 62f992e3d12ec4dfcb955484173f49ee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3301, y: 418}
+  - name: Shoes_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2072
+      y: 2466
+      width: 199
+      height: 66
+    spriteID: 6163b3e048b8b4a4f93870727ca8bf36
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1068, y: 2272}
+  - name: Leg Definition_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2476
+      y: 1932
+      width: 150
+      height: 544
+    spriteID: fed174e117f6648219e51f6f99164525
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1547, y: 1743}
+  - name: Leg R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1834
+      y: 1932
+      width: 230
+      height: 531
+    spriteID: a75832dec6a64406f896e9a2332d7d4e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 894, y: 1733}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2072
+      y: 2711
+      width: 81
+      height: 70
+    spriteID: b2fb423bbb63940288737ba75ee05101
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 864, y: 2034}
+  - name: Hand R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2072
+      y: 2789
+      width: 72
+      height: 52
+    spriteID: 25ffa5fe7fdd843b3ad644ea7846887d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 854, y: 2100}
+  - name: Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2072
+      y: 2624
+      width: 121
+      height: 79
+    spriteID: 2a8d882be038d4311874f4a374f9b9ef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 880, y: 1947}
+  - name: Rectangle 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2072
+      y: 2540
+      width: 128
+      height: 76
+    spriteID: 45414a791857748c9ac7435c33add846
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 885, y: 1864}
+  - name: Strap
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1834
+      y: 2717
+      width: 117
+      height: 124
+    spriteID: cb980f2d4797f4c09a1246bfee95bff3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 704, y: 1977}
+  - name: Arm Def copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 811
+      y: 2402
+      width: 251
+      height: 457
+    spriteID: c2de08b751bae4e45ba2584e36bbb1d7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -216, y: 1752}
+  - name: Arm R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2634
+      y: 1932
+      width: 174
+      height: 448
+    spriteID: 522fca27769c44fe493c354084b0501a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1555, y: 1217}
+  - name: V
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 811
+      y: 1932
+      width: 535
+      height: 462
+    spriteID: f626eefdac311485e976b2f49ecc64e6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -31, y: 1453}
+  - name: Inner Shield
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1200
+      width: 570
+      height: 570
+    spriteID: c416ccd3080334956be31597aca26c39
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 958, y: 701}
+  - name: Shield
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3074
+      y: 1103
+      width: 597
+      height: 604
+    spriteID: 765bb24aac8b247539030835da8f8bc9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2114, y: 621}
+  - name: Cape_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1932
+      width: 799
+      height: 929
+    spriteID: 5acb6884f6d264e8c96f8c4f89fbf559
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -389, y: 1704}
+  - name: Background
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1920
+    spriteID: 4fd862956bba2427ca4fa636a7134f78
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 1920, y: 1920}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Hand L
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 171
+    mosaicPosition: {x: 0, y: 0}
+  - name: Shading
+    spriteName: Shading
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fae7fcca8872842ee8621c29000e6b24
+    layerID: 147
+    mosaicPosition: {x: 2991, y: 1769}
+  - name: Hand L
+    spriteName: Hand L
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d6c3b1cb9d45d42b9a869ba254e17901
+    layerID: 145
+    mosaicPosition: {x: 1959, y: 2717}
+  - name: Spear
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 152
+    mosaicPosition: {x: 0, y: 0}
+  - name: Shape 1
+    spriteName: Shape 1
+    isGroup: 0
+    parentIndex: 3
+    spriteID: c9b68f4888a5c499a888c086c3eeb736
+    layerID: 151
+    mosaicPosition: {x: 1834, y: 2574}
+  - name: Spear Point
+    spriteName: Spear Point
+    isGroup: 0
+    parentIndex: 3
+    spriteID: d526ba81566534e2dab2fdf37bef76b1
+    layerID: 158
+    mosaicPosition: {x: 1932, y: 4}
+  - name: Spear
+    spriteName: Spear
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 6652a1a8c44e9420487f2c93653dd584
+    layerID: 149
+    mosaicPosition: {x: 3074, y: 4}
+  - name: Diper
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 173
+    mosaicPosition: {x: 0, y: 0}
+  - name: Belt
+    spriteName: Belt
+    isGroup: 0
+    parentIndex: 7
+    spriteID: afd60a20c5e4148a695fd830e5303788
+    layerID: 51
+    mosaicPosition: {x: 3679, y: 1831}
+  - name: Diper
+    spriteName: Diper
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 82bcf86455d524f09993f7304111e499
+    layerID: 49
+    mosaicPosition: {x: 3679, y: 1671}
+  - name: Leg L
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 163
+    mosaicPosition: {x: 0, y: 0}
+  - name: Shoes
+    spriteName: Shoes
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 4ab2b83fa9c6b4c1c80d3912b3770778
+    layerID: 74
+    mosaicPosition: {x: 1834, y: 2471}
+  - name: Leg Definition
+    spriteName: Leg Definition
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 696debf380c1c433c90cc2d60ea2408f
+    layerID: 76
+    mosaicPosition: {x: 3679, y: 1103}
+  - name: Leg L
+    spriteName: Leg L
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 73110e8dd6f55414d8bdc85386876fc5
+    layerID: 53
+    mosaicPosition: {x: 2290, y: 1932}
+  - name: Head
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 169
+    mosaicPosition: {x: 0, y: 0}
+  - name: Head
+    spriteName: Head
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 0d68b8819467542c68c7c4c0ef88345c
+    layerID: 142
+    mosaicPosition: {x: 1070, y: 2402}
+  - name: Body
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 159
+    mosaicPosition: {x: 0, y: 0}
+  - name: Cape Clip
+    spriteName: Cape Clip
+    isGroup: 0
+    parentIndex: 16
+    spriteID: fa2917180a4cd4d84bac9761b29f4ddf
+    layerID: 25
+    mosaicPosition: {x: 2208, y: 2540}
+  - name: Cape Strap
+    spriteName: Cape Strap
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 4992d7d7fc2884e89ae2ed3734c2de76
+    layerID: 33
+    mosaicPosition: {x: 1961, y: 2574}
+  - name: Cape
+    spriteName: Cape
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 7d071223d40134036adf088de005c510
+    layerID: 31
+    mosaicPosition: {x: 2510, y: 1769}
+  - name: Tooth Knot
+    spriteName: Tooth Knot
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 7dcf624c771124dff99661c046aadc64
+    layerID: 43
+    mosaicPosition: {x: 2161, y: 2741}
+  - name: Tooth
+    spriteName: Tooth
+    isGroup: 0
+    parentIndex: 16
+    spriteID: f1e562096f1f347a0b5f1ae4cef13ff9
+    layerID: 38
+    mosaicPosition: {x: 2161, y: 2711}
+  - name: Necklace
+    spriteName: Necklace
+    isGroup: 0
+    parentIndex: 16
+    spriteID: bc20d360de221496387fb145c25a2669
+    layerID: 36
+    mosaicPosition: {x: 1959, y: 2806}
+  - name: Ab Definition
+    spriteName: Ab Definition
+    isGroup: 0
+    parentIndex: 16
+    spriteID: aa00bf03f0f524573851606a592764da
+    layerID: 21
+    mosaicPosition: {x: 3947, y: 1577}
+  - name: Ab Definition
+    spriteName: Ab Definition_1
+    isGroup: 0
+    parentIndex: 16
+    spriteID: ffad1acc3e63743ef814d45609f3e890
+    layerID: 16
+    mosaicPosition: {x: 2510, y: 1200}
+  - name: Nipples
+    spriteName: Nipples
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 1afa50c6edb1b469f827ba85ea5a52f3
+    layerID: 19
+    mosaicPosition: {x: 1070, y: 2839}
+  - name: Body
+    spriteName: Body
+    isGroup: 0
+    parentIndex: 16
+    spriteID: ddc0a96ea24f64e7ab8e06ce7b5055f0
+    layerID: 2
+    mosaicPosition: {x: 1354, y: 1932}
+  - name: Arm L
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 161
+    mosaicPosition: {x: 0, y: 0}
+  - name: Arm Def
+    spriteName: Arm Def
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 27137debb2ebc4577ba525e3a96af86f
+    layerID: 94
+    mosaicPosition: {x: 2991, y: 1835}
+  - name: Arm Definition
+    spriteName: Arm Definition
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 395e52180d30a4f72bff33536750b898
+    layerID: 92
+    mosaicPosition: {x: 2072, y: 1932}
+  - name: Arm L
+    spriteName: Arm L
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 62f992e3d12ec4dfcb955484173f49ee
+    layerID: 87
+    mosaicPosition: {x: 3947, y: 1103}
+  - name: Leg R
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 165
+    mosaicPosition: {x: 0, y: 0}
+  - name: Shoes
+    spriteName: Shoes_1
+    isGroup: 0
+    parentIndex: 31
+    spriteID: 6163b3e048b8b4a4f93870727ca8bf36
+    layerID: 78
+    mosaicPosition: {x: 2072, y: 2466}
+  - name: Leg Definition
+    spriteName: Leg Definition_1
+    isGroup: 0
+    parentIndex: 31
+    spriteID: fed174e117f6648219e51f6f99164525
+    layerID: 86
+    mosaicPosition: {x: 2476, y: 1932}
+  - name: Leg R
+    spriteName: Leg R
+    isGroup: 0
+    parentIndex: 31
+    spriteID: a75832dec6a64406f896e9a2332d7d4e
+    layerID: 77
+    mosaicPosition: {x: 1834, y: 1932}
+  - name: Hand R
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 176
+    mosaicPosition: {x: 0, y: 0}
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: 35
+    spriteID: b2fb423bbb63940288737ba75ee05101
+    layerID: 179
+    mosaicPosition: {x: 2072, y: 2711}
+  - name: Hand R
+    spriteName: Hand R
+    isGroup: 0
+    parentIndex: 35
+    spriteID: 25ffa5fe7fdd843b3ad644ea7846887d
+    layerID: 178
+    mosaicPosition: {x: 2072, y: 2789}
+  - name: Arm R
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 167
+    mosaicPosition: {x: 0, y: 0}
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 2a8d882be038d4311874f4a374f9b9ef
+    layerID: 189
+    mosaicPosition: {x: 2072, y: 2624}
+  - name: Rectangle 2
+    spriteName: Rectangle 2
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 45414a791857748c9ac7435c33add846
+    layerID: 190
+    mosaicPosition: {x: 2072, y: 2540}
+  - name: Strap
+    spriteName: Strap
+    isGroup: 0
+    parentIndex: 38
+    spriteID: cb980f2d4797f4c09a1246bfee95bff3
+    layerID: 188
+    mosaicPosition: {x: 1834, y: 2717}
+  - name: Arm Def copy
+    spriteName: Arm Def copy
+    isGroup: 0
+    parentIndex: 38
+    spriteID: c2de08b751bae4e45ba2584e36bbb1d7
+    layerID: 104
+    mosaicPosition: {x: 811, y: 2402}
+  - name: Arm R
+    spriteName: Arm R
+    isGroup: 0
+    parentIndex: 38
+    spriteID: 522fca27769c44fe493c354084b0501a
+    layerID: 97
+    mosaicPosition: {x: 2634, y: 1932}
+  - name: Shield
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 182
+    mosaicPosition: {x: 0, y: 0}
+  - name: V
+    spriteName: V
+    isGroup: 0
+    parentIndex: 44
+    spriteID: f626eefdac311485e976b2f49ecc64e6
+    layerID: 192
+    mosaicPosition: {x: 811, y: 1932}
+  - name: Inner Shield
+    spriteName: Inner Shield
+    isGroup: 0
+    parentIndex: 44
+    spriteID: c416ccd3080334956be31597aca26c39
+    layerID: 185
+    mosaicPosition: {x: 1932, y: 1200}
+  - name: Shield
+    spriteName: Shield
+    isGroup: 0
+    parentIndex: 44
+    spriteID: 765bb24aac8b247539030835da8f8bc9
+    layerID: 181
+    mosaicPosition: {x: 3074, y: 1103}
+  - name: Cape
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 194
+    mosaicPosition: {x: 0, y: 0}
+  - name: Cape
+    spriteName: Cape_1
+    isGroup: 0
+    parentIndex: 48
+    spriteID: 5acb6884f6d264e8c96f8c4f89fbf559
+    layerID: 196
+    mosaicPosition: {x: 4, y: 1932}
+  - name: Background
+    spriteName: Background
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4fd862956bba2427ca4fa636a7134f78
+    layerID: 1
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: Spartan Complete Texture
+  prefabAssetName: Spartan Complete Prefab
+  spriteLibAssetName: Spartan Complete Sprite Lib
